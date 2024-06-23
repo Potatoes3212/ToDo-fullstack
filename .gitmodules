@@ -1,0 +1,6 @@
+[submodule "ToDo-frontend"]
+	path = ToDo-frontend
+	url = git@github.com:Potatoes3212/ToDo-frontend.git
+[submodule "ToDo-backend"]
+	path = ToDo-backend
+	url = git@github.com:Potatoes3212/ToDo-backend.git
